@@ -1,17 +1,8 @@
 {
   "name": "keep-supabase-side-projects-alive",
   "version": "1.0.0",
-  "main": "keep-alive.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "alive": "node keep-alive.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.5.0",
-    "fetch": "^1.1.0"
-  },
-  "description": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
